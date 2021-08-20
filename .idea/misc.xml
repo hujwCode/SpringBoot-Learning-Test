@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/1.x/3-1-7/pom.xml" />
         <option value="$PROJECT_DIR$/1.x/3-2-1/pom.xml" />
         <option value="$PROJECT_DIR$/1.x/3-2-5/pom.xml" />
+        <option value="$PROJECT_DIR$/1.x/thymeleafdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/1.x/4-1-1_task/pom.xml" />
+        <option value="$PROJECT_DIR$/1.x/4-1-2_asynctask/pom.xml" />
+        <option value="$PROJECT_DIR$/1.x/4-1-3_taskExecutor/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
