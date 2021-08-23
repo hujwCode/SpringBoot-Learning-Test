@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/1.x/3-2-5/3-2-5.iml" filepath="$PROJECT_DIR$/1.x/3-2-5/3-2-5.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.x/4-1-1_task/4-1-1_task.iml" filepath="$PROJECT_DIR$/1.x/4-1-1_task/4-1-1_task.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.x/4-1-3_taskExecutor/4-1-3_taskExecutor.iml" filepath="$PROJECT_DIR$/1.x/4-1-3_taskExecutor/4-1-3_taskExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.x/4-3-1_security/4-3-1_security.iml" filepath="$PROJECT_DIR$/1.x/4-3-1_security/4-3-1_security.iml" />
     </modules>
   </component>
 </project>

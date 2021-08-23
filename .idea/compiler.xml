@@ -10,6 +10,7 @@
         <module name="thymeleafdemo" />
         <module name="task (1)" />
         <module name="4-1-2_asynctask" />
+        <module name="security" />
         <module name="task" />
         <module name="demo (2)" />
         <module name="demo (1)" />
@@ -36,6 +37,7 @@
       <module name="demo (2)" options="-parameters" />
       <module name="demo (3)" options="-parameters" />
       <module name="demo (4)" options="-parameters" />
+      <module name="security" options="-parameters" />
       <module name="task" options="-parameters" />
       <module name="task (1)" options="-parameters" />
       <module name="thymeleafdemo" options="-parameters" />
