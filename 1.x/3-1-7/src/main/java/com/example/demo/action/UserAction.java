@@ -20,6 +20,7 @@ public class UserAction {
     public User saveUser(User user) {
         LocalDateTime localDate = LocalDateTime.now();
         user.setBirthday(localDate);
+        System.out.println(1212);
         return user;
     }
 }
