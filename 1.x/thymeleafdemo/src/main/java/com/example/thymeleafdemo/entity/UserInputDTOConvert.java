@@ -10,6 +10,7 @@ public class UserInputDTOConvert implements DTOConvert {
     public User convert(Object o) {
         User user = new User();
         BeanUtils.copyProperties(o,user);
+        System.out.println(11);
         return user;
     }
 }
