@@ -21,6 +21,7 @@ public class UserAction {
         LocalDateTime localDate = LocalDateTime.now();
         user.setBirthday(localDate);
         System.out.println(1212);
+        // souttt
         return user;
     }
 }
