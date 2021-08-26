@@ -7,10 +7,11 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Objects;
 
-@RunWith(SpringJUnit4ClassRunner.class)
+//@RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest
 class ApplicationTests {
 
@@ -20,10 +21,10 @@ class ApplicationTests {
 	@BeforeEach
 	void setUpBefore() {
 		userService.deleteAllUsers();
-//		System.out.println(1212);
 	}
 
 
+	@Transactional
 	@Test
 	void contextLoads() {
 		// 插入5个用户
